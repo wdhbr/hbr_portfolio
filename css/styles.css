@@ -5398,6 +5398,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .close:not(:disabled):not(.disabled):hover, .close:not(:disabled):not(.disabled):focus {
   opacity: 0.75;
 }
+
 .gotoweb{
   display: block;
   color: #fff;
@@ -5410,6 +5411,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   width: 200px;
   margin: 50px auto;
 }
+
 .gotoweb:hover{
     color: #ffffff;
     background-color: #b673e1;
