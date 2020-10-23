@@ -10369,7 +10369,7 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17em; /*17*/
+    padding-top: 17rem; /*17*/
     padding-bottom: 12.5rem;
   }
   header.masthead .masthead-subheading {
